@@ -1,0 +1,17 @@
+{
+  "name": "dvademo",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".umirc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "umi dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "umi": "^2.4.4",
+    "umi-plugin-react": "^1.4.2"
+  }
+}
